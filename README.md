@@ -25,7 +25,7 @@
    <h3 align="left">Languages and Tools:</h3>
     <p align="left">
     <table>
-        <tr width="600px" height="120px">
+        <tr width="1200px" height="120px">
             <td>
                 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
@@ -57,7 +57,7 @@
                         alt="dotnet" width="40" height="40" /> </a>
             </td>
         </tr>
-        <tr width="600px" height="120px">
+        <tr width="1200px" height="120px">
             <td>
                 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
@@ -90,7 +90,7 @@
                 </a>
             </td>
         </tr>
-        <tr width="600px" height="120px">
+        <tr width="1200px" height="120px">
             <td>
                 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
@@ -122,7 +122,7 @@
                         width="40" height="40" /> </a>
             </td>
         </tr>
-        <tr width="600px" height="120px">
+        <tr width="1200px" height="120px">
             <td>
             
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
