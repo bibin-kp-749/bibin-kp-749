@@ -24,7 +24,7 @@
 
    <h3 align="left">Languages and Tools:</h3>
     <p align="left">
-    <table>
+    <table width="1200px">
         <tr width="1200px" height="120px">
             <td>
                 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img
