@@ -2,7 +2,7 @@
     <h3 align="center">A passionate .NET developer from India</h3>
     <img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" align="right" width=400>
 
-    <p align="left"> <img
+ <p align="left"> <img
             src="https://komarev.com/ghpvc/?username=bibin-kp-749&label=Profile%20views&color=0e75b6&style=flat"
             alt="bibin-kp-749" /> </p>
 
@@ -12,7 +12,7 @@
 
     - 📫 How to reach me **2018bibinkp@gmail.com**
 
-    <h3 align="left">Connect with me:</h3>
+  <h3 align="left">Connect with me:</h3>
     <p align="left">
         <a href="https://linkedin.com/in/bibin-kp-598b14280" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -22,7 +22,7 @@
                 alt="bibinkp" height="30" width="40" /></a>
     </p>
 
-    <h3 align="left">Languages and Tools:</h3>
+   <h3 align="left">Languages and Tools:</h3>
     <p align="left">
     <table>
         <tr>
@@ -125,7 +125,7 @@
         <tr>
             <td>
             
-                <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
                         alt="bootstrap" width="40" height="40" /></a>
             </td>
@@ -133,6 +133,6 @@
     </table>
 </p>
 
-    <p><img align="center"
+  <p><img align="center"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=bibin-kp-749&show_icons=true&locale=en&layout=compact"
             alt="bibin-kp-749" /></p>
