@@ -27,7 +27,7 @@
     <table width="1200px" style="display: flex;justify-content: end;align-items: center;">
         <tr width="1200px" height="140px" style="display:flex">
             <td width="200" height="140px" style="flex: 1;display: flex;justify-content: center;align-items: center;align-content: center;">
-                <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"  style="display: flex;justify-content: center;align-items: center;"> <img
+                <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"  style="display: flex;justify-content: center;"> <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
                         alt="csharp" width="40" height="40" /> </a>
             </td>
