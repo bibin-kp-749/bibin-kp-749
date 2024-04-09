@@ -8,7 +8,8 @@
 
     - 🌱 I’m currently learning **.NET CORE**
 
-    - 💬 Ask me about **C# , JS , C++ , C ,JAVA , REACT , REDUX , HTML ,CSS , SQL**
+    - 💬 Ask me about **C# , JS , C++ , C ,JAVA , REACT , REDUX ,
+   <br>   HTML ,CSS , SQL**
 
     - 📫 How to reach me **2018bibinkp@gmail.com**
 
