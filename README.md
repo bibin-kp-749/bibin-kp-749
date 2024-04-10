@@ -10,7 +10,7 @@
 
     - 💬 Ask me about **C# , JS , C++ , C ,JAVA , REACT , REDUX , HTML ,CSS , SQL**
 
-    - 📫 How to reach me **2018bibinkp@gmail.com**
+    - 📫 How to reach me **2018bibinkp@gmail.com**   
 
   <h3 align="left">Connect with me:</h3>
     <p align="left">
